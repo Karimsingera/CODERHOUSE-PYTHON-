@@ -1,0 +1,5 @@
+# Conteúdo do arquivo requirements.txt
+
+pandas==2.1.4
+numpy==1.24.3
+requests==2.31.0
