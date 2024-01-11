@@ -1,0 +1,15 @@
+!pip install openmeteo-requests
+!pip install requests-cache retry-requests
+!pip install plyer
+
+import openmeteo_requests
+import requests_cache
+import pandas as pd
+import numpy as np
+from retry_requests import retry
+import matplotlib.pyplot as plt
+import sqlite3
+import csv
+import plyer
+from plyer import notification
+import datetime
